@@ -1,0 +1,11 @@
+hr{
+    border-style: dotted none none;
+    width: 5%;
+    border-color: grey;
+    border-width: 4px;
+}
+
+.juliopic {
+    background-color: seagreen;
+    border-radius: 50%;
+}
